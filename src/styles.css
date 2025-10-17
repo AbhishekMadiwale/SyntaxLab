@@ -1,0 +1,19 @@
+/* minimal global reset */
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: #f2f3f5;
+}
+* {
+  box-sizing: border-box;
+}
+button {
+  cursor: pointer;
+}
+pre {
+  white-space: pre-wrap;
+}
