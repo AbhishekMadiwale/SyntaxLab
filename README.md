@@ -1,6 +1,8 @@
-# SyntaxLab is an interactive web app that helps developers practice, recall, and understand JavaScript syntax through hands-on examples.
+# SyntaxLab
 
-# It’s built for developers who often forget small syntax details while coding or preparing for interviews — providing a space to type, test, and instantly visualize output.
+## It is an interactive web app that helps developers practice, recall, and understand JavaScript syntax through hands-on examples.
+
+## It’s built for developers who often forget small syntax details while coding or preparing for interviews — providing a space to type, test, and instantly visualize output.
 
 ## Features
 
